@@ -1,0 +1,2 @@
+# SRImageRotator
+a simple imageRotator
